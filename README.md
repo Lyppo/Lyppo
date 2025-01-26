@@ -15,7 +15,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LYppo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LYppo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -86,7 +85,7 @@
 
 ###
 
-<p align="center">‎ <br>👋 Hi, I'm Anto! Passionate developer 💻, studying computer science and medicine 🩺, I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️, rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time, ready to seize every opportunity 🌟!</p>
+<p align="center">‎ <br>👋 Hi, I'm Anto! Passionate developer 💻, studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
 
 ###
 
