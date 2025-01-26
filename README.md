@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/antonin-coutable-35171a290/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="antodu72210@gmail.com" target="_blank">
+  <a href="mailto:antodu72210@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -85,7 +85,7 @@
 
 ###
 
-<p align="center">‎ <br>👋 Hi, I'm Anto! Passionate developer 💻, studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
+<p align="center"> <br> <br>👋 Hi, I'm Anto! Passionate developer 💻, studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
 
 ###
 
