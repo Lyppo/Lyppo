@@ -18,9 +18,9 @@
 
 ## 💻 Dev Skills & Social Links:
 
-<br/>
-
 <img align="right" width="160" src="https://media.tenor.com/o52MCbZZ_EQAAAAi/rawr.gif" />
+
+<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
