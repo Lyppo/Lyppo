@@ -11,7 +11,7 @@
 <img align="right" height="150" style="margin-right: 2%" src="https://media.tenor.com/AsccOD438eoAAAAi/black-cat.gif" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LYppo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lyppo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 <br/>
@@ -44,25 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
 </div>
 
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/585509293416251432)
+<br>
 
-
-<div align="left">
-  <a href="https://discordapp.com/users/585509293416251432">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.instagram.com/coutableantonin/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/antonin-coutable-35171a290/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:antodu72210@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
-
-<br/>
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />](https://discordapp.com/users/585509293416251432)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />](https://www.instagram.com/coutableantonin/)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/antonin-coutable-35171a290/)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />](mailto:antodu72210@gmail.com)
 
 ## ✨ Who I Am:
 
@@ -75,7 +62,7 @@
 <p align="center">👋 Hi, I'm Anto! Passionate developer 💻, studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/LYppo/LYppo/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Lyppo/Lyppo/output/snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">🚀 My projects are right here! Check them out below 👇</p>
