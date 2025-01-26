@@ -1,4 +1,4 @@
-<img align="right" style="width: 23%" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
+<img align="right" style="width: 22%" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
 
 <br/>
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="left" height="180" style="margin-left: 2%" src="https://media1.tenor.com/m/4TT38rFtbIIAAAAC/nagatoro.gif" />
+<img align="left" style="width: 22%" src="https://media1.tenor.com/m/4TT38rFtbIIAAAAC/nagatoro.gif" />
 
 <img align="right" height="150" style="margin-right: 2%" src="https://media.tenor.com/AsccOD438eoAAAAi/black-cat.gif" />
 
