@@ -1,4 +1,4 @@
-<img align="right" style="width: 22%" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
+<img align="right" width="75" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
 
 <br/>
 
@@ -6,9 +6,9 @@
 
 <br/>
 
-<img align="left" style="width: 22%" src="https://media1.tenor.com/m/4TT38rFtbIIAAAAC/nagatoro.gif" />
+<img align="left" width="185"  src="https://media1.tenor.com/m/4TT38rFtbIIAAAAC/nagatoro.gif" />
 
-<img align="right" height="150" style="margin-right: 2%" src="https://media.tenor.com/AsccOD438eoAAAAi/black-cat.gif" />
+<img align="right" width="150" style="margin-right: 2%" src="https://media.tenor.com/AsccOD438eoAAAAi/black-cat.gif" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lyppo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph" />
@@ -20,7 +20,7 @@
 
 <br/>
 
-<img align="right" height="140" src="https://media.tenor.com/o52MCbZZ_EQAAAAi/rawr.gif" />
+<img align="right" width="160" src="https://media.tenor.com/o52MCbZZ_EQAAAAi/rawr.gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
@@ -55,9 +55,9 @@
 
 <br/>
 
-<img align="left" height="150" style="margin-left: 2%" src="https://media1.tenor.com/m/X51DAWpiC7QAAAAC/nagatoro-cat-girl.gif" />
+<img align="left" width="140" src="https://media1.tenor.com/m/X51DAWpiC7QAAAAC/nagatoro-cat-girl.gif" />
 
-<img align="right" height="140" style="margin-right: 2%" src="https://preview.redd.it/cappie-outis-v0-cmgpu8a2oyce1.jpeg?width=2048&format=pjpg&auto=webp&s=290c934fe4935b61a7bb0cf80531dcdfa87ff3c2" />
+<img align="right" width="160" style="margin-right: 2%" src="https://preview.redd.it/cappie-outis-v0-cmgpu8a2oyce1.jpeg?width=2048&format=pjpg&auto=webp&s=290c934fe4935b61a7bb0cf80531dcdfa87ff3c2" />
 
 <p align="center">👋 Hi, I'm Anto! Passionate developer 💻, studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
 
