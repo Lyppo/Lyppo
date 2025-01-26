@@ -44,17 +44,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
 </div>
 
+[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/585509293416251432)
+
+
 <div align="left">
-  <a href="https://discordapp.com/users/585509293416251432" style="color: transparent;">
+  <a href="https://discordapp.com/users/585509293416251432">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="https://www.instagram.com/coutableantonin/" style="color: transparent;">
+  <a href="https://www.instagram.com/coutableantonin/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/antonin-coutable-35171a290/" style="color: transparent;">
+  <a href="https://www.linkedin.com/in/antonin-coutable-35171a290/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:antodu72210@gmail.com" style="color: transparent;">
+  <a href="mailto:antodu72210@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
