@@ -59,7 +59,7 @@
 
 <img align="right" width="160" style="margin-right: 2%" src="https://preview.redd.it/cappie-outis-v0-cmgpu8a2oyce1.jpeg?width=2048&format=pjpg&auto=webp&s=290c934fe4935b61a7bb0cf80531dcdfa87ff3c2" />
 
-<p align="center">👋 Hi, I'm Anto! Passionate developer 💻, studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
+<p align="center">👋 Hi, I'm Anto! Passionate developer 💻,<br>studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Lyppo/Lyppo/output/snake.svg" alt="Snake animation" />
