@@ -15,8 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LYppo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LYppo&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LYppo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=LYppo&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LYppo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -94,16 +94,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LYppo/LYppo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<img align="left" height="50" src="https://media.tenor.com/2djV4aR4oVoAAAAi/cat-rainbow.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media.tenor.com/2djV4aR4oVoAAAAi/cat-rainbow.gif"  />
 
 ###
 
