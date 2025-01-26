@@ -1,6 +1,10 @@
 <img align="right" height="80" style="margin-right: 3%" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
 
+<br/><br/>
+
 ## Hi 👋! My name is Anto, and I'm a Frenchy guy from France.
+
+<br/>
 
 <img align="left" height="180" style="margin-left: 2%" src="https://media1.tenor.com/m/4TT38rFtbIIAAAAC/nagatoro.gif" />
 
@@ -13,6 +17,8 @@
 <br/>
 
 ## 💻 Dev Skills & Social Links:
+
+<br/>
 
 <img align="right" height="140" src="https://media.tenor.com/o52MCbZZ_EQAAAAi/rawr.gif" />
 
@@ -53,7 +59,11 @@
   </a>
 </div>
 
+<br/>
+
 ## ✨ Who I Am:
+
+<br/>
 
 <img align="left" height="150" style="margin-left: 2%" src="https://media1.tenor.com/m/X51DAWpiC7QAAAAC/nagatoro-cat-girl.gif" />
 
