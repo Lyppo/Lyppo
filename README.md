@@ -1,6 +1,6 @@
 <img align="right" height="80" style="margin-right: 3%" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
 
-<br/><br/>
+<br/>
 
 ## Hi 👋! My name is Anto, and I'm a Frenchy guy from France.
 
