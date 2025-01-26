@@ -1,4 +1,4 @@
-<img align="right" width="75" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
+<img align="right" width="70" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
 
 <br/>
 
