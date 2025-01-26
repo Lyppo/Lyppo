@@ -55,9 +55,9 @@
 
 <br/>
 
-<img align="left" width="140" src="https://media1.tenor.com/m/X51DAWpiC7QAAAAC/nagatoro-cat-girl.gif" />
+<img align="left" width="150" src="https://media1.tenor.com/m/X51DAWpiC7QAAAAC/nagatoro-cat-girl.gif" />
 
-<img align="right" width="160" style="margin-right: 2%" src="https://preview.redd.it/cappie-outis-v0-cmgpu8a2oyce1.jpeg?width=2048&format=pjpg&auto=webp&s=290c934fe4935b61a7bb0cf80531dcdfa87ff3c2" />
+<img align="right" width="180" style="margin-right: 2%" src="https://preview.redd.it/cappie-outis-v0-cmgpu8a2oyce1.jpeg?width=2048&format=pjpg&auto=webp&s=290c934fe4935b61a7bb0cf80531dcdfa87ff3c2" />
 
 <p align="center">👋 Hi, I'm Anto! Passionate developer 💻,<br>studying computer science and medicine 🩺,<br>I dive into new tech projects whenever I have some free time ⏳.<br>Between lines of code, you’ll find me on a karting track 🏎️,<br>rollerblading 🛹, or exploring new video games 🎮.<br>Curious, I often find myself in the right place at the right time,<br>ready to seize every opportunity 🌟!</p>
 
