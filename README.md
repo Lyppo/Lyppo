@@ -1,4 +1,4 @@
-<img align="right" height="80" style="object-fit: contain" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
+<img align="right" style="width: 8%; object-fit: contain" src="https://media1.tenor.com/m/kdfoCFrhgjAAAAAC/nagatoro.gif" />
 
 <br/>
 
